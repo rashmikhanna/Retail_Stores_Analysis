@@ -1,0 +1,173 @@
+Product ID,Product Name,Brand,Category,Sub Category,Selling Price
+PROD00001,Britannia Snack,Britannia,Grocery,Snacks,597.73
+PROD00002,Nestle Snack,Nestle,Grocery,Snacks,184.37
+PROD00003,Nestle Packaged Food,Nestle,Grocery,Packaged Foods,1849.37
+PROD00004,Britannia Dairy,Britannia,Grocery,Dairy,1549.16
+PROD00005,Nestle Beverage,Nestle,Grocery,Beverages,750.93
+PROD00006,Amul Cooking Essential,Amul,Grocery,Cooking Essentials,1768.2
+PROD00007,Nestle Dairy,Nestle,Grocery,Dairy,325.82
+PROD00008,Nestle Cooking Essential,Nestle,Grocery,Cooking Essentials,1403.47
+PROD00009,Amul Beverage,Amul,Grocery,Beverages,574.06
+PROD00010,Tata Snack,Tata,Grocery,Snacks,246.07
+PROD00011,Amul Dairy,Amul,Grocery,Dairy,155.76
+PROD00012,Amul Packaged Food,Amul,Grocery,Packaged Foods,45.46
+PROD00013,Tata Beverage,Tata,Grocery,Beverages,1252.67
+PROD00014,Tata Cooking Essential,Tata,Grocery,Cooking Essentials,1795.35
+PROD00015,Britannia Packaged Food,Britannia,Grocery,Packaged Foods,479.32
+PROD00016,Amul Snack,Amul,Grocery,Snacks,1371.13
+PROD00017,Tata Dairy,Tata,Grocery,Dairy,706.68
+PROD00018,Britannia Cooking Essential,Britannia,Grocery,Cooking Essentials,411.59
+PROD00019,Britannia Beverage,Britannia,Grocery,Beverages,1750.81
+PROD00020,Tata Packaged Food,Tata,Grocery,Packaged Foods,1499.83
+PROD00021,Boat Mobile Phone,Boat,Electronics,Mobile Phones,29846.6
+PROD00022,Boat Accessorie,Boat,Electronics,Accessories,39737.36
+PROD00023,Boat Smart Watche,Boat,Electronics,Smart Watches,96975.31
+PROD00024,HP Laptop,HP,Electronics,Laptops,95203.96
+PROD00025,Apple Accessorie,Apple,Electronics,Accessories,73293.92
+PROD00026,Apple Television,Apple,Electronics,Televisions,22856.35
+PROD00027,Sony Television,Sony,Electronics,Televisions,97447.31
+PROD00028,Apple Laptop,Apple,Electronics,Laptops,39786.06
+PROD00029,Dell Television,Dell,Electronics,Televisions,65302.54
+PROD00030,Lenovo Headphone,Lenovo,Electronics,Headphones,12448.38
+PROD00031,HP Headphone,HP,Electronics,Headphones,28642.4
+PROD00032,Noise Television,Noise,Electronics,Televisions,42907.86
+PROD00033,LG Television,LG,Electronics,Televisions,80182.53
+PROD00034,Sony Laptop,Sony,Electronics,Laptops,95733.74
+PROD00035,HP Television,HP,Electronics,Televisions,73099.72
+PROD00036,Noise Mobile Phone,Noise,Electronics,Mobile Phones,34528.11
+PROD00037,Noise Laptop,Noise,Electronics,Laptops,32508.49
+PROD00038,Dell Smart Watche,Dell,Electronics,Smart Watches,84994.53
+PROD00039,Apple Mobile Phone,Apple,Electronics,Mobile Phones,24865.23
+PROD00040,HP Smart Watche,HP,Electronics,Smart Watches,6186.08
+PROD00041,Boat Laptop,Boat,Electronics,Laptops,78360.78
+PROD00042,Sony Accessorie,Sony,Electronics,Accessories,68714.38
+PROD00043,Dell Laptop,Dell,Electronics,Laptops,8750.6
+PROD00044,LG Smart Watche,LG,Electronics,Smart Watches,33686.35
+PROD00045,LG Headphone,LG,Electronics,Headphones,11524.08
+PROD00046,Lenovo Mobile Phone,Lenovo,Electronics,Mobile Phones,66150.51
+PROD00047,HP Accessorie,HP,Electronics,Accessories,74134.48
+PROD00048,Lenovo Smart Watche,Lenovo,Electronics,Smart Watches,64478
+PROD00049,Samsung Television,Samsung,Electronics,Televisions,15279.64
+PROD00050,Sony Headphone,Sony,Electronics,Headphones,48281.15
+PROD00051,Samsung Accessorie,Samsung,Electronics,Accessories,60754.66
+PROD00052,Noise Accessorie,Noise,Electronics,Accessories,75874.63
+PROD00053,Lenovo Laptop,Lenovo,Electronics,Laptops,35265.39
+PROD00054,Apple Headphone,Apple,Electronics,Headphones,25377.96
+PROD00055,LG Mobile Phone,LG,Electronics,Mobile Phones,11791.64
+PROD00056,Samsung Headphone,Samsung,Electronics,Headphones,12289.89
+PROD00057,Sony Smart Watche,Sony,Electronics,Smart Watches,52721.16
+PROD00058,Dell Headphone,Dell,Electronics,Headphones,56552.33
+PROD00059,LG Accessorie,LG,Electronics,Accessories,5374.48
+PROD00060,Sony Mobile Phone,Sony,Electronics,Mobile Phones,36782.97
+PROD00061,LG Laptop,LG,Electronics,Laptops,2578.18
+PROD00062,Boat Headphone,Boat,Electronics,Headphones,10286.73
+PROD00063,Dell Mobile Phone,Dell,Electronics,Mobile Phones,73944.59
+PROD00064,Apple Smart Watche,Apple,Electronics,Smart Watches,69785.87
+PROD00065,Samsung Laptop,Samsung,Electronics,Laptops,61210.1
+PROD00066,Boat Television,Boat,Electronics,Televisions,89171.63
+PROD00067,HP Mobile Phone,HP,Electronics,Mobile Phones,48659.15
+PROD00068,Noise Smart Watche,Noise,Electronics,Smart Watches,71721.2
+PROD00069,Samsung Mobile Phone,Samsung,Electronics,Mobile Phones,13835.14
+PROD00070,Lenovo Accessorie,Lenovo,Electronics,Accessories,75444.91
+PROD00071,Samsung Smart Watche,Samsung,Electronics,Smart Watches,12028.8
+PROD00072,Noise Headphone,Noise,Electronics,Headphones,39829.56
+PROD00073,Dell Accessorie,Dell,Electronics,Accessories,41616.86
+PROD00074,Lenovo Television,Lenovo,Electronics,Televisions,62055.69
+PROD00075,Dove Shampoo,Dove,Personal Care,Shampoo,110.08
+PROD00076,Patanjali Soap,Patanjali,Personal Care,Soap,1371.88
+PROD00077,Nivea Toothpaste,Nivea,Personal Care,Toothpaste,550.78
+PROD00078,Colgate Skin Care,Colgate,Personal Care,Skin Care,2061.75
+PROD00079,Nivea Soap,Nivea,Personal Care,Soap,322.74
+PROD00080,Himalaya Shampoo,Himalaya,Personal Care,Shampoo,438.08
+PROD00081,Dove Face Wash,Dove,Personal Care,Face Wash,771.81
+PROD00082,Colgate Face Wash,Colgate,Personal Care,Face Wash,1543.19
+PROD00083,Dove Soap,Dove,Personal Care,Soap,1172.01
+PROD00084,Himalaya Toothpaste,Himalaya,Personal Care,Toothpaste,997.95
+PROD00085,Colgate Soap,Colgate,Personal Care,Soap,1423.21
+PROD00086,Dove Toothpaste,Dove,Personal Care,Toothpaste,1316.27
+PROD00087,Himalaya Skin Care,Himalaya,Personal Care,Skin Care,1737.42
+PROD00088,Colgate Shampoo,Colgate,Personal Care,Shampoo,1539.96
+PROD00089,Dove Skin Care,Dove,Personal Care,Skin Care,642.58
+PROD00090,Patanjali Skin Care,Patanjali,Personal Care,Skin Care,1250.88
+PROD00091,Himalaya Face Wash,Himalaya,Personal Care,Face Wash,1407.18
+PROD00092,Patanjali Face Wash,Patanjali,Personal Care,Face Wash,554.5
+PROD00093,Patanjali Shampoo,Patanjali,Personal Care,Shampoo,1483.52
+PROD00094,Nivea Face Wash,Nivea,Personal Care,Face Wash,1049.59
+PROD00095,Colgate Toothpaste,Colgate,Personal Care,Toothpaste,1433.86
+PROD00096,Himalaya Soap,Himalaya,Personal Care,Soap,121.67
+PROD00097,Nivea Shampoo,Nivea,Personal Care,Shampoo,1415.58
+PROD00098,Patanjali Toothpaste,Patanjali,Personal Care,Toothpaste,723.9
+PROD00099,Nivea Skin Care,Nivea,Personal Care,Skin Care,1655.57
+PROD00100,Cello Storage Container,Cello,Home & Kitchen,Storage Containers,6229.78
+PROD00101,Cello Cookware,Cello,Home & Kitchen,Cookware,14244.67
+PROD00102,Bajaj Water Bottle,Bajaj,Home & Kitchen,Water Bottles,16233.57
+PROD00103,Milton Cleaning Supplie,Milton,Home & Kitchen,Cleaning Supplies,8402.01
+PROD00104,Philips Appliance,Philips,Home & Kitchen,Appliances,11463.76
+PROD00105,Milton Storage Container,Milton,Home & Kitchen,Storage Containers,20328.7
+PROD00106,Prestige Appliance,Prestige,Home & Kitchen,Appliances,20874.7
+PROD00107,Bajaj Cleaning Supplie,Bajaj,Home & Kitchen,Cleaning Supplies,16451.15
+PROD00108,Cello Cleaning Supplie,Cello,Home & Kitchen,Cleaning Supplies,789.81
+PROD00109,Prestige Storage Container,Prestige,Home & Kitchen,Storage Containers,9110.08
+PROD00110,Prestige Cleaning Supplie,Prestige,Home & Kitchen,Cleaning Supplies,10267.08
+PROD00111,Bajaj Storage Container,Bajaj,Home & Kitchen,Storage Containers,1493.06
+PROD00112,Prestige Water Bottle,Prestige,Home & Kitchen,Water Bottles,3283.49
+PROD00113,Milton Cookware,Milton,Home & Kitchen,Cookware,2063.32
+PROD00114,Bajaj Appliance,Bajaj,Home & Kitchen,Appliances,18375.45
+PROD00115,Milton Water Bottle,Milton,Home & Kitchen,Water Bottles,16617.28
+PROD00116,Bajaj Cookware,Bajaj,Home & Kitchen,Cookware,1982.64
+PROD00117,Cello Water Bottle,Cello,Home & Kitchen,Water Bottles,7717.59
+PROD00118,Milton Appliance,Milton,Home & Kitchen,Appliances,4328.37
+PROD00119,Philips Storage Container,Philips,Home & Kitchen,Storage Containers,7359.27
+PROD00120,Cello Appliance,Cello,Home & Kitchen,Appliances,17359.09
+PROD00121,Philips Cleaning Supplie,Philips,Home & Kitchen,Cleaning Supplies,3007.88
+PROD00122,Prestige Cookware,Prestige,Home & Kitchen,Cookware,17910.27
+PROD00123,Philips Cookware,Philips,Home & Kitchen,Cookware,3056.69
+PROD00124,Philips Water Bottle,Philips,Home & Kitchen,Water Bottles,8752.48
+PROD00125,Wildcraft Mens Clothing,Wildcraft,Fashion,Men's Clothing,3175.76
+PROD00126,Nike Mens Clothing,Nike,Fashion,Men's Clothing,5271.52
+PROD00127,Puma Womens Clothing,Puma,Fashion,Women's Clothing,1751.2
+PROD00128,Adidas Bag,Adidas,Fashion,Bags,6448.9
+PROD00129,Nike Womens Clothing,Nike,Fashion,Women's Clothing,8827.73
+PROD00130,Nike Footwear,Nike,Fashion,Footwear,9047.7
+PROD00131,Puma Footwear,Puma,Fashion,Footwear,2578.83
+PROD00132,Puma Mens Clothing,Puma,Fashion,Men's Clothing,11734.28
+PROD00133,Adidas Womens Clothing,Adidas,Fashion,Women's Clothing,5528.06
+PROD00134,Adidas Mens Clothing,Adidas,Fashion,Men's Clothing,9916.73
+PROD00135,Wildcraft Footwear,Wildcraft,Fashion,Footwear,2239.3
+PROD00136,Wildcraft Womens Clothing,Wildcraft,Fashion,Women's Clothing,6120.16
+PROD00137,Nike Bag,Nike,Fashion,Bags,1781.64
+PROD00138,Puma Bag,Puma,Fashion,Bags,11330.2
+PROD00139,Wildcraft Bag,Wildcraft,Fashion,Bags,2731.49
+PROD00140,Adidas Footwear,Adidas,Fashion,Footwear,4600.06
+PROD00141,FaberCastell Notebook,Faber-Castell,Stationery,Notebooks,1388.5
+PROD00142,FaberCastell Pen,Faber-Castell,Stationery,Pens,938.31
+PROD00143,Classmate Notebook,Classmate,Stationery,Notebooks,694.54
+PROD00144,Classmate Office Supplie,Classmate,Stationery,Office Supplies,136.57
+PROD00145,FaberCastell Art Supplie,Faber-Castell,Stationery,Art Supplies,968.46
+PROD00146,FaberCastell Office Supplie,Faber-Castell,Stationery,Office Supplies,1176.84
+PROD00147,Classmate Art Supplie,Classmate,Stationery,Art Supplies,287.03
+PROD00148,Classmate Pen,Classmate,Stationery,Pens,789.3
+PROD00149,Puma Football,Puma,Sports,Football,17995.03
+PROD00150,Nike Fitness Equipment,Nike,Sports,Fitness Equipment,12729.98
+PROD00151,Puma Fitness Equipment,Puma,Sports,Fitness Equipment,12217.43
+PROD00152,Nike Football,Nike,Sports,Football,20563.82
+PROD00153,Nike Outdoor Sport,Nike,Sports,Outdoor Sports,7528.34
+PROD00154,Puma Cricket,Puma,Sports,Cricket,20815.67
+PROD00155,Nike Cricket,Nike,Sports,Cricket,4277.7
+PROD00156,Adidas Fitness Equipment,Adidas,Sports,Fitness Equipment,17445.33
+PROD00157,Puma Outdoor Sport,Puma,Sports,Outdoor Sports,13982.09
+PROD00158,Adidas Football,Adidas,Sports,Football,18267.17
+PROD00159,Adidas Outdoor Sport,Adidas,Sports,Outdoor Sports,5871.34
+PROD00160,Adidas Cricket,Adidas,Sports,Cricket,22467.93
+PROD00161,Hamleys Action Figure,Hamleys,Toys,Action Figures,11239.82
+PROD00162,Funskool Educational Toy,Funskool,Toys,Educational Toys,3674.9
+PROD00163,LeapFrog Board Game,LeapFrog,Toys,Board Games,3868.39
+PROD00164,Hamleys Board Game,Hamleys,Toys,Board Games,5229.57
+PROD00165,Funskool Board Game,Funskool,Toys,Board Games,13767.23
+PROD00166,Funskool Action Figure,Funskool,Toys,Action Figures,9701.95
+PROD00167,LeapFrog Kids Toy,LeapFrog,Toys,Kids Toys,3065.68
+PROD00168,Hamleys Educational Toy,Hamleys,Toys,Educational Toys,10727.57
+PROD00169,LeapFrog Action Figure,LeapFrog,Toys,Action Figures,1703.19
+PROD00170,Hamleys Kids Toy,Hamleys,Toys,Kids Toys,11928.03
+PROD00171,LeapFrog Educational Toy,LeapFrog,Toys,Educational Toys,13047.05
+PROD00172,Funskool Kids Toy,Funskool,Toys,Kids Toys,8098.72
