@@ -1,4 +1,5 @@
 <img width="1322" height="737" alt="Dashboard Power BI" src="https://github.com/user-attachments/assets/23fa4ab4-af4e-4e49-992c-46447eb59fe6" />
+
 ## Project Overview
 Analyzed retail sales, customer, product, and store data using PostgreSQL and Power BI.
 
